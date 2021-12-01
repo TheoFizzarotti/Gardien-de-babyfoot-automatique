@@ -1,20 +1,76 @@
 Séance 1:
+
 -FIZZAROTTI:
 --Prendre les dimensions du babyfoot (avant).
---Choix du moteur.
--- réflexion sur les communications entre caméra/arduino/moteur.
---Placement de la caméra.
+--Faire les plans détaillés avec une échelle de la maquette.
 
 -NOCENTINI:
 --Choix de la caméra.
---Détection de la position de la balle.
+--Détection d'une balle.
+
 
 Séance 2:
 
 -FIZZAROTTI:
---Création d'une maquette de test.
+--Choix du moteur.
+--Faire les plans détaillés avec une échelle du mécanisme de déplacement.
 
-NOCENTINI:
---Test des mouvements du moteur en synchro avec la balle
+-NOCENTINI:
+--Suivi de la balle (en y associant par exemple une coordonnée).
 
+
+Séance 3:
+
+-FIZZAROTTI:
+--Création de la maquette.
+
+-NOCENTINI:
+--Faire le lien entre le suivi de la balle et la position où doit se trouver le gardien.
+
+
+Séance 4:
+
+-FIZZAROTTI:
+--Création du mécanisme de déplacement.
+
+-NOCENTINI:
+--Faire le lien entre la position où doit se trouver le gardien et l'action que doit effectuer le moteur depuis son point d'origine.
+
+
+Séance 5:
+
+-FIZZAROTTI:
+--Réflexion sur les communications entre caméra/arduino/moteur.
+
+-NOCENTINI:
+--Faire le lien entre la position où doit se trouver le gardien et l'action que doit effectuer le moteur depuis sa position actuelle.
+
+
+Séance 6:
+
+-FIZZAROTTI:
+--Mise en place de la communication entre caméra/arduino/moteur.
+
+-NOCENTINI:
+--Travailler aussi sur la communication / faire des tests.
+
+
+Séance 7:
+
+Si par rapport au planning :
+En retard : Séance complétant les tâches citées plus haut.
+Dans les temps : Séance de Tests / Debug / Ajustements.
+En avance : Séance de travail sur des améliorations comme une gestion de la rotation ?
+
+
+Séance 8:
+
+Si par rapport au planning :
+En retard : Séance complétant les tâches citées plus haut.
+Dans les temps : Séance de Tests / Debug / Ajustements.
+En avance : Séance de travail sur des améliorations comme une gestion de la rotation ?
+
+Séance 9:
+
+Le Jour du GRAND ORAL
 
