@@ -1,8 +1,20 @@
 Séance 1:
--FIZZAROTTI: 
-
+-FIZZAROTTI:
+--Prendre les dimensions du babyfoot (avant).
+--Choix du moteur.
+-- réflexion sur les communications entre caméra/arduino/moteur.
+--Placement de la caméra.
 
 -NOCENTINI:
 --Choix de la caméra.
 --Détection de la position de la balle.
---
+
+Séance 2:
+
+-FIZZAROTTI:
+--Création d'une maquette de test.
+
+NOCENTINI:
+--Test des mouvements du moteur en synchro avec la balle
+
+
