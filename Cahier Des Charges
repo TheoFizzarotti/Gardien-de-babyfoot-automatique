@@ -1,0 +1,13 @@
+-Détecter la balle et être capable de la suivre.
+--Caméra haute fréquence.
+--Détection de la position de l'objet.
+
+-Interpreter l'information et en déduire une position pour arreter la balle.
+--Le gardien suit la coordonnée de la balle.
+
+-Concevoir un système permettant d'agir sur la barre.
+--Moteur permettant la translation.
+--Bloquage de la rotation.
+
+
+
