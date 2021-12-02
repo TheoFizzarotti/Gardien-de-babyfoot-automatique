@@ -13,4 +13,5 @@ Il sera plus pratique de continuer le travail sur la pixycam avec le cable perme
 
 -Renseignements sur les communications entre deux cartes Arduino.
 --Une carte arduino sera en relation avec la Pixicam et l'autre communiquera avec le moteur.
+--Installation de la librairie RadioHead (anciennement VirtualWire) permettant de faire communiquer deux arduino
 --Début du programme permettant d'envoyer l'information de la coordonnée ainsi que du programme permettant de la recevoir.
