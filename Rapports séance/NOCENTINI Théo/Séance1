@@ -1,1 +1,12 @@
 
+
+
+Séance 1:
+
+-Découverte de la Pixicam. --Installation des bibliothèques arduino, connection et premier test de la pixycam sur une balle jaune proche concluant. --La balle jaune n'est pas detecté de loin.
+
+-Récupération des coordonnées de la balle: --Un code existant donne les informations sur la position et la taille de l'objet detecté. --Il nous suffit de garder seulement une coordonnée mais cette coordonnée est caché dans le code, il faut donc que j'enrichisse mes connaissances arduino ET sur pixy.
+
+Il sera plus pratique de continuer le travail sur la pixycam avec le cable permettant de faire communiquer la pixycam avec son logiciel.
+
+-Renseignements sur les communications entre deux cartes Arduino. --Une carte arduino sera en relation avec la Pixicam et l'autre communiquera avec le moteur. --Installation de la librairie RadioHead (anciennement VirtualWire) permettant de faire communiquer deux arduino --Début du programme permettant d'envoyer l'information de la coordonnée ainsi que du programme permettant de la recevoir.
